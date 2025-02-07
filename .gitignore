@@ -1,0 +1,22 @@
+# Python/Django
+*.pyc
+__pycache__/
+db.sqlite3
+venv/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.sqlite3
+/staticfiles/
+media/
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
